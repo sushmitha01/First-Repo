@@ -1,5 +1,9 @@
-01 line Every
+01 line Every(change on line 1)
 02 line Good
+<<<<<<< HEAD
 03 line Boy (chsnge on 3)
+=======
+03 line Boy (change on line 3)
+>>>>>>> alternative
 04 line Deserves
 05 line Favor (change on 5)

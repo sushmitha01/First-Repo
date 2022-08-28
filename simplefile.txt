@@ -1,5 +1,11 @@
 01 line Every(change on line 1)
 02 line Good
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+03 line Boy (change on 3)
+=======
+>>>>>>> 49f91d9ac1bafa74319669e5a394d21db7bd7977
 03 line Boy (change on line 3)
 04 line Deserves
 05 line Favor (change on 5)
